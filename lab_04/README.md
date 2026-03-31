@@ -1,5 +1,5 @@
 Lab 03 – Modelowanie systemu M/M/S/S (symulator stacji bazowej)
-Opis projektu
+Opis zadania
 
 W ramach laboratorium zaimplementowano kompletny symulator stacji bazowej działający w modelu kolejkowym M/M/S/S. System odwzorowuje działanie komórki sieci mobilnej, w której zgłoszenia napływają zgodnie z rozkładem Poissona, a czas trwania połączeń generowany jest na podstawie rozkładu normalnego z ograniczeniami minimalnymi i maksymalnymi.
 
